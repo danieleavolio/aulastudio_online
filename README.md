@@ -12,14 +12,6 @@ If you would like to contribute to this project, please follow the steps below:
 6. Create a pull request on GitHub from your forked repository to this repository.
 7. Please make sure to write clear commit messages and to test your changes thoroughly before submitting a pull request.
 
-## Getting Started
-To get started with the website, you will need to do the following:
-
-1. Clone the repository to your local machine: git clone https://github.com/your-username/student-room-website.git.
-2. Install the necessary dependencies: npm install.
-3. Start the development server: npm start.
-4. You should now be able to view the website at http://localhost:3000/.
-
 ## Contributing
 If you find a bug or have an idea for a new feature, please create a new issue on GitHub. We welcome contributions of all kinds, including bug reports, feature requests, and code contributions.
 
