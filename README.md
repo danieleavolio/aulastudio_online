@@ -1,38 +1,27 @@
-# create-svelte
+# Student Room Website
+This repository contains the source code for a website for our student room. The website is designed to allow us to upload news and other information about our room.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Code Collaboration
+If you would like to contribute to this project, please follow the steps below:
 
-## Creating a project
+1. Fork the repository to your own GitHub account.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your changes: git checkout -b your-branch-name.
+4. Make your changes and commit them: git commit -am "Description of your changes".
+5. Push your changes to your forked repository: git push origin your-branch-name.
+6. Create a pull request on GitHub from your forked repository to this repository.
+7. Please make sure to write clear commit messages and to test your changes thoroughly before submitting a pull request.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Getting Started
+To get started with the website, you will need to do the following:
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+1. Clone the repository to your local machine: git clone https://github.com/your-username/student-room-website.git.
+2. Install the necessary dependencies: npm install.
+3. Start the development server: npm start.
+4. You should now be able to view the website at http://localhost:3000/.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Contributing
+If you find a bug or have an idea for a new feature, please create a new issue on GitHub. We welcome contributions of all kinds, including bug reports, feature requests, and code contributions.
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
